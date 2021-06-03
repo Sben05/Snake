@@ -1,8 +1,9 @@
 # Snake
 ## Clone Instructions
 1. Use terminal, or the zip download to get the full project
-2. All sound files/images should work correctly. If they do not however, the game should still run the alternate version (no images/sound)
-3. Press run, and enjoy the game!
+2. Drag and drop the entire thing into a new project (any IDE should be fine)
+3. All sound files/images should work correctly. If they do not however, the game should still run the alternate version (no images/sound)
+4. Press run, and enjoy the game!
 
 A stable version of Java is required to run this game
 
